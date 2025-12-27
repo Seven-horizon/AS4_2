@@ -4,3 +4,6 @@ this repository contains Git usage for Assgnment 4
 
 ## Screenshot
 ![Readme Screenshot](images/Screenshot_readme1.jpg)
+
+## Favorite Quote
+"Stay hungry, stay foolish." -Steve Jobs
